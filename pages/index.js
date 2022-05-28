@@ -4,7 +4,7 @@ import Header from '../Components/Header';
 import Stock_gain from '../Components/Stock_gain';
 import Stock_loss from '../Components/Stock_loss';
 import { loadStripe } from '@stripe/stripe-js'
-import {IoIosArrowDropdownCircle} from 'react-icons/Io'
+import {IoIosArrowDropdownCircle} from 'react-icons/io'
 
 function App() {
   const [state, setState] = useState([])
