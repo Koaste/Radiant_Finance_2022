@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@700&family=Karma:wght@300&family=Montserrat:wght@300&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
